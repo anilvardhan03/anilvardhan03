@@ -1,7 +1,7 @@
 # Naga Mouli Anil Gubbala
 
 👋 Hi, I’m Naga Mouli Anil Gubbala
-    - A Creative frontend developer from India
+    - A Full Stack developer from India
 
 👀 I’m interested in software engineering, full-stack web development.
 
@@ -13,7 +13,6 @@
 
 📫 How to reach me:
 - Email: nagamoulianil03@gmail.com
-- Phone: +91–9701186333
 - LinkedIn - https://www.linkedin.com/in/nagamoulianilgubbala/
 
 😄 Pronouns: He/Him
